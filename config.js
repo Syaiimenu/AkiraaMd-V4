@@ -54,7 +54,7 @@ global.nameown = 'Bang syaii'
 global.owner = [
   ['6283842839555'],
   ['6287776600135'],
-  ['6282214729677', 'PutraModz', true]
+  ['6283842839555', 'Bang_Syaii', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
